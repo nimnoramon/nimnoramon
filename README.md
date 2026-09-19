@@ -10,7 +10,7 @@ Currently at SCGP (via GetLinks), where I also built an MCP server so our AI
 tooling can reach our internal systems.
 
 **Projects**
-- [OrderHub](link) — a miniature omnichannel order hub: append-only stock ledger,
+- [OrderHub]([link](https://orderhub-delta.vercel.app)) — a miniature omnichannel order hub: append-only stock ledger,
   order state machine, two mock marketplace connectors with realistic failure
   modes. Next.js · NestJS · Postgres · Redis. [Live demo](link)
 - [Case studies](link) — shipping a Meta Business Extension integration in nine
