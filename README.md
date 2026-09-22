@@ -10,11 +10,9 @@ Currently at SCGP (via GetLinks), where I also built an MCP server so our AI
 tooling can reach our internal systems.
 
 **Projects**
-- [OrderHub](https://orderhub-delta.vercel.app) — a miniature omnichannel order hub: append-only stock ledger,
+- [OrderHub](https://github.com/nimnoramon/orderhub) — a miniature omnichannel order hub: append-only stock ledger,
   order state machine, two mock marketplace connectors with realistic failure
-  modes. Next.js · NestJS · Postgres · Redis. [Live demo](link)
-- [Case studies](link) — shipping a Meta Business Extension integration in nine
-  days, and building a public service module on a government platform
+  modes. Next.js · NestJS · Postgres · Redis. [Live demo](https://orderhub-delta.vercel.app)
 
 **How I work with AI**
 Claude Code is part of my daily loop — I spec, it drafts, I review and test.
